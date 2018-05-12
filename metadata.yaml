@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8508
     wikipedia: http://en.wikipedia.org/wiki/Jacob_Bryant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19584#A-New-System--or-an-Analysis-of-Antient-Mythology.-Volume-II.--of-VI.-
 gutenberg_issued: '2006-10-18'
 gutenberg_type: Text
 identifiers:
