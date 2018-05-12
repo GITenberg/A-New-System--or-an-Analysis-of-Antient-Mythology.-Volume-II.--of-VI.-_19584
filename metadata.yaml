@@ -1,0 +1,28 @@
+_repo: A-New-System--or-an-Analysis-of-Antient-Mythology.-Volume-II.--of-VI.-_19584
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bryant, Jacob
+    birthdate: 1715
+    deathdate: 1804
+    gutenberg_agent_id: '8508'
+    url: http://www.gutenberg.org/2009/agents/8508
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Bryant
+description: ''
+gutenberg_issued: '2006-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19584'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'History, Ancient'
+- !lcsh 'Mythology'
+- !lcc 'BL'
+title: A New System; or, an Analysis of Antient Mythology. Volume II. (of VI.)
+url: http://www.gutenberg.org/ebooks/19584
